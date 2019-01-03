@@ -1,0 +1,27 @@
+.megamenu{
+	margin-bottom:0px;
+	padding:0;width:100%;
+	list-style:none;
+	display:inline-block;
+	position:relative;
+	font-family: 'Amaranth', sans-serif;
+	font-size:15px
+}
+.megamenu li{
+	margin-bottom:-6px;
+	display:inline
+}
+.megamenu>li>a{
+	float:left;margin:0 15px ;
+	text-decoration:none;
+	font-size:1.1em;
+}
+
+.skyblue li>a{
+	color: rgba(40,30,90,.86);
+}
+.skyblue>li:hover>a{
+	color:#555; background:#ffffff;
+}
+
+
